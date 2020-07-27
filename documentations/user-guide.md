@@ -10,20 +10,7 @@ If you want to run it locally
 - run `cd frontend` 
 - run `npm install` & `npm start`
 
-then you can see the frontend displays on localhost:3000, the server runs at localhost:5000.
-
-
-## Feature Plan
-- [x] Sign up, log in, edit personal profile, forget password functions
-- [x] Add food calorie information
-- [x] Energy intake documentation and calculation
-- [x] Food information search
-- [x] Make trial mode available for users who don't log in
-- [x] Deploy on Heroku
-- [x] Add food nutrition information
-- [x] Mobile adjusting
-- [x] Final testing
-  
+then you can see the frontend displays on localhost:3000, the server runs at localhost:5000.  
   
 ## How users would use and benifit from these features
 - Sign up, log in, edit personal profile, forget password
