@@ -74,10 +74,9 @@ We focus on a **website** and its **mobile adjusting**.
 - [x] Food information search
 - [x] Make trial mode available for users who don't log in
 - [x] Deploy on Heroku
-- [x] Add food nutrition information
-- [x] Polish frontend display
+- [x] Polish frontend design
 - [x] Mobile adjusting
-- [x] Final testing
+- [x] Run locally and online
 
 
 
