@@ -78,7 +78,12 @@ We focus on a **website** and its **mobile adjusting**.
 - [x] Mobile adjusting
 - [x] Run locally and online
 
+## Future Plan
+Add independent comment area(without using facebook js)
 
+Add common food calorie information
+
+Speed up loading
 
 
 ## How users would use and benifit from these features
