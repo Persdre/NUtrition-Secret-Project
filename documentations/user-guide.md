@@ -10,21 +10,7 @@ If you want to run it locally
 - run `cd frontend` 
 - run `npm install` & `npm start`
 
-then you can see the frontend displays on localhost:3000, the server runs at localhost:5000.
-
-
-## Feature Plan
-- [x] Sign up, log in, edit personal profile, forget password functions
-- [x] Add food calorie information
-- [x] Energy intake documentation and calculation
-- [x] Food information search
-- [x] Make trial mode available for users who don't log in
-- [x] Deploy on Heroku
-- [ ] [by 03/7] Add food nutrition information
-- [ ] [by 10/7] Open a public comment area for users to leave their comments about the food
-- [ ] [by 17/7] Mobile adjusting
-- [ ] [by 27/7] Final testing
-  
+then you can see the frontend displays on localhost:3000, the server runs at localhost:5000.  
   
 ## How users would use and benifit from these features
 - Sign up, log in, edit personal profile, forget password
@@ -40,7 +26,7 @@ then you can see the frontend displays on localhost:3000, the server runs at loc
 - Energy intake documentation and calculation
   
   Users can add food to the cart and click document them. Then the website can give a total calorie calculation result.
-  Users can click history button on the right above to see all documentations.
+  Users can click orders button on the right above to see all documentations.
 
 - Food information search
 
@@ -48,7 +34,7 @@ then you can see the frontend displays on localhost:3000, the server runs at loc
   
 - Make trial mode available for users who don't log in
   
-  For users who don't login, they can also search food and look through restaurants and food.
+  For users who don't login, they can also search food to locate it.
   
 - Deploy on Heroku
 

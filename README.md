@@ -74,12 +74,16 @@ We focus on a **website** and its **mobile adjusting**.
 - [x] Food information search
 - [x] Make trial mode available for users who don't log in
 - [x] Deploy on Heroku
-- [x] Add food nutrition information
-- [x] Polish frontend display
+- [x] Polish frontend design
 - [x] Mobile adjusting
-- [x] Final testing
+- [x] Run locally and online
 
+## Future Plan
+Add independent comment area(without using facebook js)
 
+Add common food calorie information
+
+Speed up loading
 
 
 ## How users would use and benifit from these features
@@ -120,7 +124,7 @@ All the following tests are carried out on https://nutrition-secret.herokuapp.co
 | Forgot password                | In login screen, click forgot password                                                           | The website asks user to enter associated email, then send the password to the email    | The website asks user to enter associated email, but the email doesn't receive the password    |
 | Look through food              | Click restaurants button and then choose a restaurant                                            | Food provided by this restaurant appears including its calories                         | Food provided by this restaurant appears as well as its calories                        |
 | Search for food                | Search for food in the search box                                                                | The food's information is returned including its calories and restaurants it belongs to | The food's information is returned including its calories and restaurants it belongs to |
-|Check all history documentations                                |Click history button                                                                                                  |All food intaken history is loaded after around three seconds including food calories, time and ideal calorie intaking                                                                                         |All food intaken history is loaded after around three seconds including food calories, time and ideal calorie intaking                                                                                         |
+|Check all history documentations                                |Click orders button                                                                                                  |All food intaken history is loaded after around three seconds including food calories, time and ideal calorie intaking                                                                                         |All food intaken history is loaded after around three seconds including food calories, time and ideal calorie intaking                                                                                         |
 | Document food                  | Click "+" button on the right of the food, then click the cart picture, then click document all. | The user can see this documentation in his/her orders                                | The user can see this documentation in his/her orders                                |
 | Edit profile                                 |Click profile button                                                                                                  |A user can change the account's information especially the password, then the user can log in with the updated information                                                                                                                        |A user can change the account's information especially the password, then the user can log in with the updated information                                                                                                                        |
 
